@@ -7,7 +7,7 @@
 
 -💼 meu email: giovannasousa197@gmail.com
 
-<a href-*https://gitchub.com/giihsousaa*>
+-💼 meu email:<a href="https://gitchub.com/giihsousaa">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giihsousaa&show_icons=true&theme=radical&title_color=f7ff04&text_color=f7ff04&bg_color=d14cff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giihsousaa&layout=compact)](https://github.com/giihsousaa/github-readme-stats)
